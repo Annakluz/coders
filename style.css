@@ -1,0 +1,45 @@
+
+
+section{
+position: relative;
+margin: auto;    
+}
+
+
+span{
+    margin-left: 95px;
+    text-align: right;
+    font-family: monospace;
+    font-size: 40px;
+}
+
+}
+.imgcontainer {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+.pic {
+    display: inline-block;
+    width: 30%;
+    padding: 5px;
+    position: relative;
+    text-align: center;
+   
+}
+
+.pic img {
+    width: 200px;
+    height: 200px;
+}
+
+.name {
+    position: absolute;
+    top: 180px;
+    right:100px;
+    color: white;
+    background-color: yellow;
+    font-size: 20px;
+    font-family: monospace
+}
